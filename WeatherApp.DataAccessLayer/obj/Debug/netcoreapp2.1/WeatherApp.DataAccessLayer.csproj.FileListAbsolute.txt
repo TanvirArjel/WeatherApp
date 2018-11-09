@@ -1,0 +1,12 @@
+D:\WeatherApp\WeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.deps.json
+D:\WeatherApp\WeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.dll
+D:\WeatherApp\WeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.pdb
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.csprojAssemblyReference.cache
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.AssemblyInfoInputs.cache
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.AssemblyInfo.cs
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.csproj.CopyComplete
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.dll
+D:\WeatherApp\WeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\WeatherApp.DataAccessLayer.pdb
+D:\WeatherApp\WeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\WeatherApp.Models.dll
+D:\WeatherApp\WeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\WeatherApp.Models.pdb

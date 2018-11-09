@@ -1,0 +1,9 @@
+D:\WeatherApp\WeatherApp.Dtos\bin\Debug\netcoreapp2.1\WeatherApp.Dtos.deps.json
+D:\WeatherApp\WeatherApp.Dtos\bin\Debug\netcoreapp2.1\WeatherApp.Dtos.dll
+D:\WeatherApp\WeatherApp.Dtos\bin\Debug\netcoreapp2.1\WeatherApp.Dtos.pdb
+D:\WeatherApp\WeatherApp.Dtos\obj\Debug\netcoreapp2.1\WeatherApp.Dtos.csprojAssemblyReference.cache
+D:\WeatherApp\WeatherApp.Dtos\obj\Debug\netcoreapp2.1\WeatherApp.Dtos.csproj.CoreCompileInputs.cache
+D:\WeatherApp\WeatherApp.Dtos\obj\Debug\netcoreapp2.1\WeatherApp.Dtos.AssemblyInfoInputs.cache
+D:\WeatherApp\WeatherApp.Dtos\obj\Debug\netcoreapp2.1\WeatherApp.Dtos.AssemblyInfo.cs
+D:\WeatherApp\WeatherApp.Dtos\obj\Debug\netcoreapp2.1\WeatherApp.Dtos.dll
+D:\WeatherApp\WeatherApp.Dtos\obj\Debug\netcoreapp2.1\WeatherApp.Dtos.pdb

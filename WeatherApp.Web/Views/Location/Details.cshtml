@@ -1,0 +1,43 @@
+﻿@model WeatherApp.Models.Location
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Location</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LocationType)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LocationType)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LatLong)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LatLong)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.WoeId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.WoeId)
+        </dd>
+        
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LocationId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
